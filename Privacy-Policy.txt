@@ -1,0 +1,43 @@
+Privacy Policy - LinkSanitizer Discord Bot
+
+Last Updated: 21.05.2023 21:00
+
+Thank you for using LinkSanitizer Discord Bot ("the Bot"). This Privacy Policy explains how we collect, use, and protect your personal information when you interact with the Bot. By using the Bot, you consent to the practices described in this policy.
+
+    Data Collection:
+    When using the Bot, we collect and store the following data:
+
+1.1 Webhook Data: We store the channel ID, webhook ID, and webhook token to send messages to the specified channel.
+
+1.2 Guild Data: We store the guild ID, a counter to track the number of times URL's where cleaned in the guild, and the status of cleaner and shortener functionalities within the guild for statistical and operational purposes.
+
+1.3 Voting Data: When a user votes for the Bot, we store their user ID and the expiration date of any voting perks they may receive.
+
+    Data Usage:
+    We use the collected data for the following purposes:
+
+2.1 Webhook Data: The stored webhook data is used solely for the purpose of sending messages to the specified Discord channel.
+
+2.2 Guild Data: The guild data is utilized to generate statistical reports, track usage metrics, and enable or disable cleaner and shortener functionalities within the guild.
+
+2.3 Voting Data: Voting data is stored to provide and manage voting perks for users, including tracking the expiration dates of such perks.
+
+    Data Protection:
+    We are committed to ensuring the security and confidentiality of your personal information. We implement appropriate technical and organizational measures to protect the data we collect from unauthorized access, disclosure, alteration, or destruction.
+
+    Data Sharing:
+    We do not sell, trade, or transfer your personal information to third parties without your consent. However, we may share aggregated and anonymized data that does not personally identify individuals for statistical and analytical purposes.
+
+    Data Retention:
+    We retain your personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law. We will securely delete or anonymize your data when it is no longer needed.
+
+    User Rights:
+    You have the right to access, update, and delete your personal information. If you wish to exercise any of these rights or have any concerns about your data, please contact us using the contact information provided at the end of this Privacy Policy.
+
+    Changes to the Privacy Policy:
+    We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the "Last Updated" date will be revised accordingly. It is recommended to review this Privacy Policy periodically to stay informed about how we handle your information.
+
+    Contact Us:
+    If you have any questions, concerns, or requests regarding this Privacy Policy or the Bot's data practices, please contact us at https://discord.gg/dwgQgCcMZG.
+
+By using the Bot, you agree to the terms of this Privacy Policy.
